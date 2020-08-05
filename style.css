@@ -37,6 +37,12 @@ h3 {
     font-size: 22px;
     text-align: center;
 }
+h4 {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
 
 p {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

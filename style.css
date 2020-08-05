@@ -1,0 +1,74 @@
+/* ------ header ------ */
+header {
+      background-color: rgb(0, 48, 0);
+      padding-top: 30px;
+      padding-bottom: 30px;
+
+}
+header h1 {
+    color: floralwhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+header p {
+    color: floralwhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+main {
+      background-color: whitesmoke;
+}
+h1 {
+    color: rgb(0, 48, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px
+}
+h2 {
+    color: rgb(0, 48, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: rgb(1, 10, 0);
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%
+}
+
+ul {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: rgb(1, 10, 0);
+}
+/* ------ footer ------ */
+footer {
+   background-color: rgb(0, 48, 0);
+      padding-top: 5px;
+      padding-bottom: 5px;
+}
+footer p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  color: white;
+  margin-left: 50%;
+}
+/* ------ links ------ */
+a {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 17px;
+}
+
+a:link    { color: darkgreen;  }
+a:visited { color: limegreen;   }
+a:hover   { color:rgb(0, 48, 0); }
+a:active  { color: saddlebrown;  }

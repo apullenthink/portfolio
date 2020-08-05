@@ -47,8 +47,7 @@ p {
 img {
     height: 300px;
     width: 300px;
-    border-radius: 50%
-    align-content: center; 
+    border-radius: 50% 
 }
 
 ul {

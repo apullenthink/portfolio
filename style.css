@@ -34,7 +34,7 @@ h2 {
 h3 {
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 25px;
+    font-size: 22px;
     text-align: center;
 }
 
@@ -48,6 +48,7 @@ img {
     height: 300px;
     width: 300px;
     border-radius: 50% 
+    align-content: center;
 }
 
 ul {
